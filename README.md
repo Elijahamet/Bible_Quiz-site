@@ -1,6 +1,2 @@
 
 # Bible_Quiz-site
-
-
-
-
